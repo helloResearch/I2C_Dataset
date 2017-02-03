@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the page for I2C dataset
+I2C dataset is a dataset with 426K images and 11M associated comments from Flickr to support the research in **_image_ _commenting_** area. The dataset covers a wide range of topics such as animal(e.g., bird, cat), nature(e.g., beach, sunrise) and sports(e.g., surfing, swimming). More information about images like tags, user descriptions and location are also available.
 
-You can use the [editor on GitHub](https://github.com/helloResearch/I2C_Dataset/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Download
+You can download the dataset [here](coming soon).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/helloResearch/I2C_Dataset/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
