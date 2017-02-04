@@ -4,8 +4,7 @@ I2C dataset is a dataset with 426K images and 11M associated comments from Flick
 More information about images like tags, user descriptions and location are also available.
 
 ## Examples
-<div align="center"><img src="https://raw.githubusercontent.com/helloResearch/I2C_Dataset/master/examples.jpg" width="540" alt=""/></div>  
-  
+<div align="center"><img src="https://raw.githubusercontent.com/helloResearch/I2C_Dataset/master/examples.jpg" width="540" height="" alt=""/></div>  
   
 ## Download
 You can download the dataset **here(coming soon)**.
